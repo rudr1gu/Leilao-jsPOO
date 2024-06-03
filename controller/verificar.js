@@ -1,4 +1,4 @@
-const Participante = require('../model/Participante.js');
+// const Participante = require('../model/Participante.js');
 const { participantes } = require('./cadastrarParticipante.js');
 
 

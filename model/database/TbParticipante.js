@@ -1,4 +1,4 @@
-const db = require('./db');
+const db = require('./database/db');
 
 const TbParticipante = db.sequelize.define('tbparticipante', {
     id: {

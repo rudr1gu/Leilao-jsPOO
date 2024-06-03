@@ -1,4 +1,4 @@
-const Participante = require('../model/Participante.js');
+const Participante = require('../model/class/Participante.js');
 const TbParticipante = require('../model/TbParticipante.js');
 
 const participantes = [];
